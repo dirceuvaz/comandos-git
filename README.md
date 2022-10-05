@@ -1,4 +1,6 @@
-# GIT
+# GIT COMANDOS
+
+Retirei de outro repositório na internet. Todos os credítos ao criador.
 
 ## Estados
 
